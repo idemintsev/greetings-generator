@@ -26,7 +26,7 @@ class GreetingSpeechMaker:
 
     make_speech - добавляет в self.text_for_saving строку, возвращенную file_reader.
 
-    ave_final_speech - сохраняет текст поздравления в файл на компьютере.
+    save_final_speech - сохраняет текст поздравления в файл на компьютере.
 
     """
 
