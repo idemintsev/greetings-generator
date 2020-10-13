@@ -6,6 +6,8 @@ from random import randint
 
 class GreetingSpeechMaker:
     """
+    Use python3.7
+    
     Создает поздравления с днем рождения и сохраняет в файл '.txt'.
 
     Принимает параметры:
